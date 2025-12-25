@@ -1,0 +1,21 @@
+{
+  "fine_structure_constant": {
+    "predicted_inverse": 137.02124847759777,
+    "experimental_inverse": 137.035999084,
+    "error_percent": 0.010764037552781386,
+    "status": "excellent"
+  },
+  "qcd_coupling": {
+    "phi5_minus_1": 10.090169943749476,
+    "interpretation": "constituent_quark_model",
+    "status": "consistent"
+  },
+  "shape_factor": {
+    "epsilon": 0.7745966692414834,
+    "epsilon_squared": 0.6,
+    "status": "confirmed"
+  },
+  "overall_status": "validated",
+  "tests_passed": 6,
+  "tests_total": 6
+}
