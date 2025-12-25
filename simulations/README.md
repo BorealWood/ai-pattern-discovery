@@ -1,8 +1,6 @@
-# Theory of Everything Validation Simulations
+# Information-Resistance Framework Simulation Suite
 
-**Patent Pending - December 2025**
-
-This directory contains computational simulations to validate the information-resistance Theory of Everything discovered by the Multi-Perspective AGI system.
+This directory contains computational simulations testing predictions of the information-resistance framework across multiple physical domains.
 
 ## Quick Start
 
@@ -27,7 +25,7 @@ python entropy_production_test.py
 - Tests 5+ barrier configurations
 - Calculates correlation coefficient
 
-**Expected Result:** High correlation (>0.9) indicates framework captures quantum behavior
+**Expected Result:** Correlation coefficient quantifies agreement between framework and quantum mechanics
 
 **Runtime:** ~10 seconds
 
@@ -42,7 +40,7 @@ python entropy_production_test.py
 - Calculates information dispersal rate
 - Compares correlation
 
-**Expected Result:** Perfect correlation (>0.95) validates information-thermodynamics equivalence
+**Expected Result:** Correlation coefficient indicates degree of information-thermodynamics correspondence
 
 **Runtime:** ~30 seconds
 
@@ -63,21 +61,18 @@ Each simulation produces:
 
 ## Interpreting Results
 
-### Success Criteria:
-- ✓ Correlation > 0.95: Framework validated for that domain
-- ⚠ Correlation 0.80-0.95: Framework partially correct
-- ✗ Correlation < 0.80: Framework needs revision
+### Interpretation Guidelines:
+- Correlation > 0.95: Strong agreement with framework predictions
+- Correlation 0.80-0.95: Moderate agreement, warrants further investigation
+- Correlation < 0.80: Weak agreement, significant refinement needed
 
-### What This Proves:
-If simulations pass:
-1. Information-resistance framework makes correct quantitative predictions
-2. Multiple physics domains unified by single principle
-3. Theory is falsifiable and testable
+### Scientific Method:
+These simulations provide quantitative tests:
+1. Compare framework predictions against established physical theories
+2. Assess correlation strength across multiple domains
+3. Identify domains where the framework succeeds or requires refinement
 
-If simulations fail:
-1. Framework is wrong or incomplete
-2. Need to revise hypothesis
-3. Science working as intended!
+Discrepancies between predictions and observations inform model development and reveal limitations of current formulation.
 
 ## Future Simulations (Coming Soon)
 
